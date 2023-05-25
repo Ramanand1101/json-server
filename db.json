@@ -1,0 +1,10 @@
+{
+    "dogs":[
+        {
+            "name":"himani",
+            "age":25,
+            "gender":"female",
+            "place":"gonda"
+        }
+    ]
+}
